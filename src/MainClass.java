@@ -7,5 +7,6 @@ public class MainClass {
 	   }else {
 		   System.out.println("Do Work ");
 	   }
+	   NewClass.printMessage();
    }
 }
